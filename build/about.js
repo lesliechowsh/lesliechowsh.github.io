@@ -74,8 +74,12 @@
 	  _react2.default.createElement(_header2.default, { active: 'about' }),
 	  _react2.default.createElement(
 	    'div',
-	    { className: 'main' },
-	    _react2.default.createElement('div', { className: 'post' })
+	    { className: 'intro' },
+	    _react2.default.createElement(
+	      'h3',
+	      null,
+	      'test'
+	    )
 	  ),
 	  _react2.default.createElement(_footer2.default, null)
 	), document.querySelector('.container'));
@@ -20131,7 +20135,7 @@
 	                            _react2.default.createElement(
 	                                'span',
 	                                null,
-	                                'SEARCH'
+	                                'MAIL ME'
 	                            )
 	                        )
 	                    )
