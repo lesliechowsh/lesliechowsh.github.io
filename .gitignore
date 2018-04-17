@@ -16,3 +16,4 @@ node_modules
 src
 webpack.config.js
 package.json
+package-lock.json
